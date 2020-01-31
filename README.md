@@ -10,7 +10,7 @@ nodemon
 ```
 De padrao o arquivo ```ǹode_modules``` não está ao projeto pelo tamanho dele, mas caso você tenha o yarn instalado, é só rodar 
 ```
-yarn
+yarn add
 ```
 que irá aparecer.
 
