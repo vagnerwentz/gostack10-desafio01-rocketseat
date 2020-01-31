@@ -34,3 +34,4 @@ package.json
   }
 }
 ```
+Para testes de rotas foi usado o [Insomnia](https://insomnia.rest/).
